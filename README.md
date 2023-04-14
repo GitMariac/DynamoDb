@@ -1,5 +1,8 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Boas práticas com DynamoDB
+
+Este repositório do GitHub faz parte da conclusão do curso Trabalhando com Banco de Dados SQL e NoSQL da Digital Inovation One - DIO. O presente curso buscou apresentar ao aluno conceitos básicos do DynamoDB, um banco de dados NoSQL da AWS, e mostrar como aplicar as melhores práticas de modelagem, performance e segurança ao usar esse serviço. A aula é composta por uma parte teórica e uma parte prática, onde os alunos puderam acompanhar a criação e manipulação tabelas do DynamoDB usando a AWS CLI e o SDK da AWS utilizando um código padrão para nortear a didática.
+
+
 
 ### Serviço utilizado
   - Amazon DynamoDB
